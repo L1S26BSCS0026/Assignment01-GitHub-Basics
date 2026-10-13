@@ -1,3 +1,10 @@
+/*
+ * Program    : Sum of First 50 Natural Numbers
+ * Name       : Muhammad Ahmad Hassan
+ * Reg No     : L1S26BSCS0026
+ * Assignment : 01 - Getting Started with GitHub
+ */
+
 #include<iostream>
 using namespace std;
 int main()
